@@ -1,0 +1,6 @@
+2023/12/14-16:29:03.182 69d8 Creating DB C:/Users/jorda/OneDrive/Documents/Unreal Projects/ZombieGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/12/14-16:29:03.215 69d8 Reusing MANIFEST C:/Users/jorda/OneDrive/Documents/Unreal Projects/ZombieGame/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/14-16:49:27.303 55f0 Level-0 table #5: started
+2023/12/14-16:49:27.312 55f0 Level-0 table #5: 1167 bytes OK
+2023/12/14-16:49:27.316 55f0 Delete type=0 #3
+2023/12/14-16:49:27.320 55f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
